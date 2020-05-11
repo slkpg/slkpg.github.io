@@ -8,4 +8,4 @@ grammar. The SLK algorithm is the only known
 solution to this NP-hard problem.
 SLK can produce a customizable persistent parse tree
 in addition to executing actions during parsing.
-http://www.h8dems.com
+http://www.slkpg.org
